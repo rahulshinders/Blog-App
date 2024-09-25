@@ -1,0 +1,1 @@
+This is a simple Blogging App developer using MERN Stack
